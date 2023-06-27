@@ -1,11 +1,12 @@
-### Hi there 👋
 
-<!--
-**Edcode-3722/Edcode-3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div class="header" align="center">
+        <h1 align="center">Hi, I´m Eduardo 👋</h1>
+        <h3 align="center" >A humble but very powerful developer who only aspires to more </h3>
+    </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40">
+- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oriePpBeqZTlmcPYc/giphy.gif" width="400">
+</div>
+
