@@ -15,6 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="40" height="40">
 - <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oriePpBeqZTlmcPYc/giphy.gif" width="400">
 </div>
