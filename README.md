@@ -11,7 +11,6 @@
     <strong>🤔 I’m looking for help with:</strong> Expanding my knowledge in Data Science<br>
     <strong>💬 Ask me about:</strong> PHP, Laravel, Python, or any of my favorite frameworks<br>
     <strong>📫 How to reach me:</strong> [jeduardogarcia.dev@gmail.com or <a href="www.linkedin.com/in/jose-eduardo-garcia-garcia-4ab29b2a5">Linkedin</a>] <<br>
-    <strong>😄 Pronouns:</strong> He/Him<br>
     <strong>⚡ Fun fact:</strong> I’m a huge fan of the books and awesome histories and love applying tech to solve everyday problems
 </p>
 
