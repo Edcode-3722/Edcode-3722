@@ -10,9 +10,9 @@
     <strong>👯 I’m looking to collaborate on:</strong> Open-source projects, especially in AI and backend development<br>
     <strong>🤔 I’m looking for help with:</strong> Expanding my knowledge in Data Science<br>
     <strong>💬 Ask me about:</strong> PHP, Laravel, Python, or any of my favorite frameworks<br>
-    <strong>📫 How to reach me:</strong> [Your Email or LinkedIn] <br>
+    <strong>📫 How to reach me:</strong> [jeduardogarcia.dev@gmail.com or LinkedIn] <br>
     <strong>😄 Pronouns:</strong> He/Him<br>
-    <strong>⚡ Fun fact:</strong> I’m a huge fan of The Simpsons and love applying tech to solve everyday problems
+    <strong>⚡ Fun fact:</strong> I’m a huge fan of the books and awesome histories and love applying tech to solve everyday problems
 </p>
 
 <p align="center">
